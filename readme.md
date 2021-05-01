@@ -12,4 +12,4 @@ python app.py
 
 ## Implementation
 
-Thrs is implemented using Flask
+This is implemented using Flask
